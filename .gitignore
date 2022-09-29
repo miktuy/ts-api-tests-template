@@ -1,0 +1,5 @@
+/.temp
+/allure-report/
+/allure-results/
+.env
+/node_modules/
